@@ -1,0 +1,4 @@
+--Views
+--it is virtual table.
+--It is copy of orginal table
+--We can perform DDL and DML operation

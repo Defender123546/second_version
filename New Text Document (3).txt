@@ -1,0 +1,8 @@
+create table student (S_ID int,FirstName varchar(20),LastName varchar(20),Loc varchar(20))
+
+insert into student values (11,'Amit','Verma','Pune')
+insert into student values (12,'Sumit','Sharma','Delhi')
+insert into student values (13,'Rohit','Patil','Sangali')
+insert into student values (14,'Mohit','Thakur','Jaipur')
+insert into student values (15,'Sohan','Pawar','Indor')
+insert into student values (16,'Mohan','Pawar','Indor')
